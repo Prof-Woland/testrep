@@ -40,7 +40,7 @@ body{
 }
 
 .head{
-    background-image: url(photos/background.png);
+    background-image: url(/photos/background.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -109,7 +109,7 @@ body{
 
 .eat{
     margin-top: 178px;
-    background-image: url(photos/eatbg.png);
+    background-image: url(/photos/eatbg.png);
     height: 82vh;
     background-repeat: no-repeat;
     background-size: cover;
