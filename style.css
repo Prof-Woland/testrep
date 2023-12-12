@@ -163,6 +163,7 @@ body{
 .eat-content-card-cost{
     padding-top: 9px;
     color: #CA2121;
+    font-style: italic;
     font-size: 18px;
 }
 
@@ -229,3 +230,41 @@ footer{
     font-size: 18px;
     font-weight: 700;
 }
+
+.menu-el1{
+    padding-top: 85px;
+}
+
+.menu-string{
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-img{
+    border-radius: 15px;
+    border: solid rgba(0, 0, 0, 0.201);
+}
+
+.menu-item{
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.386);
+    margin-top: 25px;
+    align-items: center;
+    display: flex;
+    background-color: #dcd2c4;
+    text-align: center;
+    padding: 5px 5px;
+    margin-left: 0 auto;
+    border: solid rgba(0, 0, 0, 0.201);
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+
+.menu-subtitle{
+    padding-top: 30px;
+    width: 350px;
+}
+
+.menu-name{
+    font-weight: bold;
+}
+
